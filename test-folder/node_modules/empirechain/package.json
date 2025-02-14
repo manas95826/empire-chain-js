@@ -1,0 +1,23 @@
+{
+  "name": "empirechain",
+  "version": "1.0.1",
+  "description": "Empire Chain is a JavaScript framework that streamlines AI development by seamlessly integrating LLMs (OpenAI, Anthropic, Groq), vector stores (Qdrant, ChromaDB), document processing, speech-to-text, web crawling, data visualization, and interactive chatbots into a unified interface. With Empire Chain, you can effortlessly build advanced AI applications like RAG systems.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manas95826/empire-chain-js.git"
+  },
+  "keywords": [
+    "EmpireChain"
+  ],
+  "author": "EmpireChain Foundation",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manas95826/empire-chain-js/issues"
+  },
+  "homepage": "https://github.com/manas95826/empire-chain-js#readme"
+}
