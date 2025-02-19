@@ -1,0 +1,40 @@
+{
+  "name": "empire-chain-js",
+  "version": "0.1.0",
+  "description": "A JavaScript/TypeScript library for working with LLMs",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build",
+    "test": "jest"
+  },
+  "keywords": [
+    "llm",
+    "ai",
+    "machine-learning",
+    "typescript"
+  ],
+  "author": "Manas Chopra",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manaschopra/empire-chain-js"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.0",
+    "@types/node": "^16.0.0",
+    "jest": "^27.0.0",
+    "@types/jest": "^27.0.0"
+  },
+  "dependencies": {
+    "openai": "^4.0.0",
+    "@anthropic-ai/sdk": "^0.14.0",
+    "groq-sdk": "^0.3.0",
+    "dotenv": "^16.0.0"
+  }
+} 

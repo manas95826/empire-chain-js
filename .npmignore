@@ -1,0 +1,28 @@
+
+
+# Tests
+__tests__/
+*.test.ts
+jest.config.js
+
+
+# Development configs
+.env*
+tsconfig.json
+.gitignore
+.git
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependencies
+node_modules/ 
+
+dist/
+.env
+.env.local

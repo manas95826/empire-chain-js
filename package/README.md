@@ -1,1 +1,0 @@
-# The EMPIRE CHAIN IS HERE
